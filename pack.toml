@@ -1,4 +1,4 @@
-name = "Karui 2 Packwiz Beta"
+name = "Dartis-Craft - Karui 2 Packwiz Beta"
 author = "Dartis-Craft"
 version = "2.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c0d8f38e2eee4918a803e8ef3150fc51ef6de0a7374856a712b299af7feee13f"
+hash = "5d6694ffb599747c0076db8e1e2e1d2f5dab5979337f1352ce2526a68e7c70c6"
 
 [versions]
 forge = "14.23.5.2860"
