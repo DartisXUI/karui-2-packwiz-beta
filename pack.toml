@@ -1,0 +1,13 @@
+name = "Karui 2 Packwiz Beta"
+author = "Dartis-Craft"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cf6a902f86ada957d9dfd6e1fdee8ba7e36c39674d394f39888326c4d37c85d8"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
