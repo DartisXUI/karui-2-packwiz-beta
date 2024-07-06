@@ -2321,7 +2321,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "adde6cc9eeeac12f95fccfc4c40b993f8cd30c7837af4ae43f1303dcbb7917c8"
+hash = "8ed8a0a7736f4e8cb81b67809900711dbde1678024b5c95e11d40f2787eff486"
 metafile = true
 
 [[files]]
@@ -2481,7 +2481,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucraft-core.pw.toml"
-hash = "a3782dbd89f986f0f19822979175f24ffee442daad5628a95411d325bceb1a89"
+hash = "9838c781cc71e49089a405ff8b13c880d2b49703c274e11e444179b5baf9db57"
 metafile = true
 
 [[files]]
